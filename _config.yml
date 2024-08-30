@@ -25,7 +25,7 @@ author:
   name             : "Zhihe Xu"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Chengdu, China"
+  location         : "[Chengdu, China](https://www.google.com/maps/place/%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E6%9C%9B%E6%B1%9F%E6%A0%A1%E5%8C%BA/@30.6312076,104.0792264,16z/data=!4m10!1m2!2m1!1z5Zub5bed5aSn5a2m5pyb5rGf5qCh5Yy6!3m6!1s0x36efc57429117955:0xde44075fc07322ee!8m2!3d30.63117!4d104.08247!15sChjlm5vlt53lpKflrabmnJvmsZ_moKHljLoiA4gBAZIBGnZvY2F0aW9uYWxfdHJhaW5pbmdfc2Nob29s4AEA!16s%2Fg%2F11rcz18n40?authuser=0&entry=ttu&g_ep=EgoyMDI0MDgyNy4wIKXMDSoASAFQAw%3D%3D)"
   employer         : "Department of Mathematics, Sichuan University"
   uri              : # URL
   email            : "xuzhihe@stu.scu.edu.cn" 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
