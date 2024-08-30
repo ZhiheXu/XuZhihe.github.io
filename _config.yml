@@ -12,7 +12,7 @@ title                    : "Zhihe Xu (许志和)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://XuZhihe.github.io
+url                      : https://zhihexu.github.io/XuZhihe.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhiheXU/XuZhihe.github.io"
 
